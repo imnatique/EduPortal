@@ -71,7 +71,7 @@ export default function Home() {
         {!currentUser && (
           <div className="flex gap-2 mt-4 mb-5 text-sm sm:text-base font-bold">
             <p>Demo Login to see the full dashboard <br />
-             <span className="text-red">Email</span>: admin@eduportal.com, <span className="text-red">Password</span>: demo1234</p>
+             <span className="text-red">Email</span>: admin@gmail.com, <span className="text-red">Password</span>: @admin001</p>
           </div>
         )}
       </div>
