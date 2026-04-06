@@ -46,7 +46,7 @@ export default function Home() {
             , how can we assist you today?
           </p>
         ) : (
-          <h6 className="text-lg sm:text-xl mt-5 sedan-regular px-2">
+          <h6 className="text-lg sm:text-xl mt-5 sedan-regular">
             Sign up now and experience the future of school management.
           </h6>
         )}
